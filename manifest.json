@@ -1,1 +1,10 @@
-
+{
+  "name": "Scores",
+  "description": "Scores Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "hockey-icon-7.png"
+  }
+}
