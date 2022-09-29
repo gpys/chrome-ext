@@ -25,7 +25,7 @@ function tweetPrinter(phrase) {
     .getElementById('tweeter')
     .setAttribute(
       'href',
-      `https://twitter.com/intent/tweet?text=${convertedString}`
+      `https://twitter.com/intent/tweet?text=Today%20I%20commit%20to%20${convertedString}`
     );
   console.log(
     `https://twitter.com/intent/tweet?text=${convertedString} target="_blank"`

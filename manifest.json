@@ -1,10 +1,10 @@
 {
-  "name": "Scores",
-  "description": "Scores Extension",
+  "name": "Corporate Motivation Extension",
+  "description": "Set goals daily with this helpful extension",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "hockey-icon-7.png"
+    "default_icon": "download.png"
   }
 }
